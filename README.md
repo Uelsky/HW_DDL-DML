@@ -59,9 +59,9 @@
 8. **Восстановите дамп в базу данных.**
 
     ```
-    $ source /home/tverdyakov/sakila-db/sakila-schema.sql
+    $ source /home/user1/sakila-db/sakila-schema.sql
 
-    $ source /home/tverdyakov/sakila-db/sakila-data.sql
+    $ source /home/user1/sakila-db/sakila-data.sql
     ```
 
 9.  **При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)**
